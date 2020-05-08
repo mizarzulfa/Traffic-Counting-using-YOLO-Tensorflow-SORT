@@ -13,7 +13,7 @@ Once the objects are detected and tracked over different frames a simple mathema
 The code on this prototype uses the code structure developed by Adrian Rosebrock for his article [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv).
 
 ## Quick Start
- You can use weight from YOLO website (http://pjreddie.com/darknet/yolo/) or use your own trained weight
- Change lines coordinate with your own video in main.py
- Set path file with your own path
- run main.py 
+ - You can use weight from YOLO website (http://pjreddie.com/darknet/yolo/) or use your own trained weight
+ - Change lines coordinate with your own video in main.py
+ - Set path file with your own path
+ - run main.py 
