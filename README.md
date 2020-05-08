@@ -18,3 +18,4 @@ The code on this prototype uses the code structure developed by Adrian Rosebrock
  - Set path file with your own path
  - run main.py 
 
+[![](http://img.youtube.com/vi/FDZiLg3_S64/0.jpg)](http://www.youtube.com/watch?v=FDZiLg3_S64 "")
